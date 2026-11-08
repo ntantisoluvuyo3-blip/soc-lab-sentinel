@@ -32,6 +32,10 @@ Analysis
 - Rule 3: Password attempt truncation
 - Limitations
 
+Related projects
+- Cowrie SSH Honeypot Lab: https://github.com/ntantisoluvuyo3-blip/SOC-Lab-Honeypot
+- Splunk pipeline (same detections, different SIEM): https://github.com/ntantisoluvuyo3-blip/soc-lab-splunk
+
 Notes
 All data in this repo was generated in a personal lab. No external or real-world incident
 data is included.
